@@ -1,4 +1,5 @@
 # 1 import dependencies
+
 import os
 import requests
 import numpy as np
